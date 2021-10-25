@@ -15,7 +15,7 @@ Function is just an operation that you can call with its key name
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Single Responsibility, Open closed principle, Liskov Substitution principle, Interface Segregation Principle, Dependency Inversion Principle.
 ```
 **4.** Given this array: 
 ```js
@@ -54,13 +54,13 @@ I++
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-refers to the document?
+refers to the document and files inside
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+Boolean, null, undefined, number, bigint, string, symbol, objects? I am almost certain I got that wrong
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
@@ -70,5 +70,5 @@ paramter is stuff like let and defining variable and argument is setting a value
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+primitive is stored in a stack and reference are objects that are stored in a heap
 ```
